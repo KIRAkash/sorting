@@ -8,7 +8,7 @@ for(int i=0;i<=20;i++){
 i++;
 k++;
 }
-a=(int*)malloc(sizeof(int)*5);
+a=(int*)malloc(sizeof(int)*5);//hello
 for(k=0;k<5;k++)
  a[k]=k;
 for(k=0;k<5;k++)
